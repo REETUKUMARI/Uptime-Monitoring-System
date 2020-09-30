@@ -25,7 +25,7 @@ cd Uptime-Monitoring-System
 ```
 #### Build
 ```
-docker build . -t status-checker
+docker build . -t Uptime-Monitoring-System
 ```
 #### Run
 ```
